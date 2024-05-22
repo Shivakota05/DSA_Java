@@ -1,7 +1,7 @@
 package Functions;
 
 import java.util.Scanner;
-
+//Tell if a person is eligible to vote or not by taking age from user
 public class Vote_eligible {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

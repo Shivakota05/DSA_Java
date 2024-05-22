@@ -1,7 +1,7 @@
 package Basic_Programs_Java;
 
 import java.util.Scanner;
-//
+//Subtract the Product and Sum of Digits of an Integer
 public class Diff_btw_Prod_n_Sum {
         public static void main(String[] args) {
             Scanner in = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package Conditional_Statements;
 
 import java.util.Scanner;
-
+//Use Arithmetic operators by using two numbers
 public class Operatons {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

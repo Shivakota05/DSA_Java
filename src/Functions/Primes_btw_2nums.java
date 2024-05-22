@@ -1,7 +1,7 @@
 package Functions;
 
 import java.util.Scanner;
-
+//display the primes between given 2 numbers
 public class Primes_btw_2nums {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

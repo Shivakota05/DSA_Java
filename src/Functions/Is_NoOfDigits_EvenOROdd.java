@@ -1,7 +1,7 @@
 package Functions;
 
 import java.util.Scanner;
-
+//Display whether the number of digits in a number are even or odd
 public class Is_NoOfDigits_EvenOROdd {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

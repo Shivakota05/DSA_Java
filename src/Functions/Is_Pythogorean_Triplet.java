@@ -1,7 +1,7 @@
 package Functions;
 
 import java.util.Scanner;
-
+//Tell if the given 3 numbers form Pythogorean Triplet or not
 public class Is_Pythogorean_Triplet {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

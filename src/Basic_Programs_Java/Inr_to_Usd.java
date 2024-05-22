@@ -1,7 +1,7 @@
 package Basic_Programs_Java;
 
 import java.util.Scanner;
-
+//convert INR to USD
 public class Inr_to_Usd {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package Conditional_Statements;
 
 import java.util.Scanner;
-
+//Display the case of first letter of String
 public class Case_of_String {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

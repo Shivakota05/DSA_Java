@@ -1,7 +1,7 @@
 package Functions;
 
 import java.util.Scanner;
-
+//Display Sum of Given N natural numbers
 public class Sum_of_N_Natural_nums {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

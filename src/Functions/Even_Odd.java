@@ -1,5 +1,5 @@
 package Functions;
-
+//Display whether a number is even or odd using functions
 import java.util.Scanner;
 
 public class Even_Odd {

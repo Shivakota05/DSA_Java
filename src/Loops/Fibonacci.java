@@ -1,7 +1,7 @@
 package Loops;
 
 import java.util.Scanner;
-
+//Display fibonacci series upto n(take from user)
 public class Fibonacci {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

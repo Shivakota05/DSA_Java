@@ -1,7 +1,7 @@
 package Functions;
 
 import java.util.Scanner;
-
+//Display the Maximum and Minimum out of 3 numbers
 public class MaxnMin {
         public static void main(String[] args) {
             Scanner in = new Scanner(System.in);
